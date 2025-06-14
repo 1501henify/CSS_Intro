@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ### Projektname
 
 - Grundlegende HTML- und CSS-Website
@@ -31,8 +30,4 @@ Dies ist eine einfache Website, die nur mit HTML und CSS erstellt wurde. Sie die
 ---
 
 Autor
-
 [Henry Okeke || 1501henify]
-=======
-# CSS_Intro
->>>>>>> d8ebcea669dc74af5112d7e8be8fcef9280ee6d8
